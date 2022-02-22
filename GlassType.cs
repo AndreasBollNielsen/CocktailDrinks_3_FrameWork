@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CocktailDrinks_3_FrameWork
 {
-    public class GlassType
+    public class GlassType: Master
     {
+
     }
 }

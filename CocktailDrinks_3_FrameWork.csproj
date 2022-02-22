@@ -53,7 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Accessories.cs" />
+    <Compile Include="Accessory.cs" />
     <Compile Include="CocktailContext.cs" />
     <Compile Include="Controller.cs" />
     <Compile Include="Drink.cs" />

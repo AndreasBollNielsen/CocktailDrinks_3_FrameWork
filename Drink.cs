@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace CocktailDrinks_3_FrameWork
 {
-    class Drink
+    public class Drink : Master
     {
+        private Recipe drinkRecipe;
+
+        public Recipe DrinkRecipe
+        {
+            get { return drinkRecipe; }
+            set { drinkRecipe = value; }
+        }
+
     }
 }

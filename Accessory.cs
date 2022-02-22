@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CocktailDrinks_3_FrameWork
 {
-    public class Accessories : Master
+    public class Accessory : Master
     {
 
     }

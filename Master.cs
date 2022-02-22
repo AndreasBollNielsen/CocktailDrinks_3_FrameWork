@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace CocktailDrinks_3_FrameWork
 {
+    //parent class for inheritance. 
+    //Name & ID is inherited down to Recipe,Drink,GlassType,Ingredient & Accessories classes
     public abstract class Master
     {
         private int id;
